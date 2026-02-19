@@ -10,7 +10,6 @@ import 'screens/suggestions_screen.dart';
 import 'screens/prototype_screen.dart';
 import 'screens/weekly_graph.dart';
 
-
 import 'providers/live_reading_provider.dart';
 
 Future<void> main() async {
@@ -55,7 +54,7 @@ class EnergyMonitorApp extends StatelessWidget {
         '/high_usage': (_) => HighUsageScreen(),
         '/suggestions': (_) => SuggestionsScreen(),
         '/prototype': (_) => PrototypeScreen(),
-         // ✅ Added Weekly Graph Route
+        // ✅ Added Weekly Graph Route
         '/weekly_graph': (_) => WeeklyGraph(),
       },
     );
