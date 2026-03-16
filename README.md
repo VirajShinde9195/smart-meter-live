@@ -9,6 +9,14 @@ Traditional electricity meters provide readings only once a month, which makes i
 To solve this problem, we developed **WattWise**, a smart energy monitoring system that uses an **ESP32 microcontroller and energy monitoring sensors** to measure electrical parameters and send data to the cloud. Users can view their electricity usage through a **mobile application dashboard** and receive **SMS alerts and recommendations** to reduce power consumption.
 
 ---
+# 🌐 Live Project
+
+You can explore the project here:
+
+```
+Website: https://smart-meter-live.netlify.app/
+
+```
 
 # 🚀 Key Features
 
